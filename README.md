@@ -1,5 +1,5 @@
 # redisUtil
-redis工具类，在spring中使用。
+redis工具类，在spring中使用。加上RedisConfig配置文件就能用json序列化。
 
 如果要在拦截器中使用：
 示例：
